@@ -1,0 +1,7 @@
+better_profanity
+openai-whisper
+streamlit
+pydub
+googletrans==4.0.0-rc1
+ffmpeg-python
+requests
